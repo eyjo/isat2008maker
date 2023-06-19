@@ -2,7 +2,6 @@ import io
 import requests
 from PyPDF2 import PdfReader
 import pandas as pd
-import psycopg2
 
 
 url = 'https://hagstofan.s3.amazonaws.com/media/public/0acb20a5-fcc7-459b-8072-0fae7fb7af39/pub_doc_ediOqLC.pdf'
